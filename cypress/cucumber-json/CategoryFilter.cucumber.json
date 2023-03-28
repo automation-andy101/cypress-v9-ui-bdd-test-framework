@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Category filter",
+    "line": 1,
+    "id": "category-filter",
+    "tags": [],
+    "uri": "CategoryFilter.feature",
+    "elements": [
+      {
+        "id": "category-filter;as-a-demoblaze-user-i-want-to-filter-by-laptops-so-that-i-can-only-see-only-laptop-products",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "As a DemoBlaze user I want to filter by laptops so that I can only see only laptop products",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am on the DemoBlaze website home page",
+            "result": {
+              "status": "passed",
+              "duration": 1032000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I click on the Monitors filter button",
+            "result": {
+              "status": "passed",
+              "duration": 159000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "only Monitor products appear",
+            "result": {
+              "status": "passed",
+              "duration": 2037000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

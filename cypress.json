@@ -1,0 +1,7 @@
+{
+    "env": {
+        "demoBlazeUrl": "https://www.demoblaze.com/index.html"
+    },
+    "testFiles": "**/*.feature"
+
+}
